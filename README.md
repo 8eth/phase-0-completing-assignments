@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand the steps needed to work on an assignment in GitHub and Canvas
+- Understand the steps needed to work on an assignment in GitHub and Canvas.
 
 ## Introduction
 
